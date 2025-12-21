@@ -24,8 +24,6 @@ A sleek, minimal desktop application for tracking your Minecraft music disc coll
 
 ## Installation
 
-## Installation
-
 ### For Users (Release Version)
 No Python installation required.
 
