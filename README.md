@@ -79,7 +79,7 @@ python src/main.py
 ## User Guide
 
 ### Managing Discs
-1. **Track**: Click any card to toggle between owned (Green border) and unowned (Grey border).
+1. **Track**: Click any card to toggle ownership. Owned discs are highlighted with a **white border** and a **green checkmark (✓)**.
 2. **Add Custom**: Click the "+" button in the header to add a new disc.
 3. **Delete Custom**: Hover over a custom disc and click the small `×` in the top-left corner.
    - *Note: Official Mojang discs are protected and cannot be deleted from the UI.*
