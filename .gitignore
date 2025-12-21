@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# User data (don't commit personal collection)
+data/collection.json
+
+# Cache (images are user-provided)
+# data/cache/  # Uncomment if you want to exclude cached images
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# PyInstaller
+*.spec
+
+# Local Images (Copyrighted official icons should not be commited)
+data/disc-icons/*.png
+!data/disc-icons/.gitkeep

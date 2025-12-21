@@ -1,0 +1,172 @@
+{
+  "discs": [
+    {
+      "id": "13",
+      "name": "13",
+      "artist": "C418",
+      "description": "A somewhat unsettling, cave-themed ambient piece consisting mostly of echoed synthesized ambient sounds, resonating metallic clinks, and quiet wind blowing.",
+      "how_to_obtain": "Creeper killed by Skeleton/Stray, Dungeon/City/Mansion chests",
+      "protected": true
+    },
+    {
+      "id": "cat",
+      "name": "Cat",
+      "artist": "C418",
+      "description": "A light, looping melody plays on a soft synth and is joined by a synth percussion beat. A toothlike synth plays a bass line and some harmonies throughout.",
+      "how_to_obtain": "Creeper killed by Skeleton/Stray, Dungeon/City/Mansion chests",
+      "protected": true
+    },
+    {
+      "id": "blocks",
+      "name": "Blocks",
+      "artist": "C418",
+      "description": "An upbeat chiptune-style piece with a shuffling waltz rhythm.",
+      "how_to_obtain": "Creeper killed by Skeleton/Stray",
+      "protected": true
+    },
+    {
+      "id": "chirp",
+      "name": "Chirp",
+      "artist": "C418",
+      "description": "A retro tune with a sample from the 1970 MATTEL Bossa Nova Style Program Disc playing in the background, along with a vaporwave-like version of Mall.",
+      "how_to_obtain": "Creeper killed by Skeleton/Stray",
+      "protected": true
+    },
+    {
+      "id": "far",
+      "name": "Far",
+      "artist": "C418",
+      "description": "A calm, relaxing nature-like melody played on a watery echoing synth, accompanied by other synths playing chords.",
+      "how_to_obtain": "Creeper killed by Skeleton/Stray",
+      "protected": true
+    },
+    {
+      "id": "mall",
+      "name": "Mall",
+      "artist": "C418",
+      "description": "Serene music played on a kalimba along with other instruments.",
+      "how_to_obtain": "Creeper killed by Skeleton/Stray",
+      "protected": true
+    },
+    {
+      "id": "mellohi",
+      "name": "Mellohi",
+      "artist": "C418",
+      "description": "A slow, slightly melancholic waltz with a sample from a mellotron playing in the background.",
+      "how_to_obtain": "Creeper killed by Skeleton/Stray, Buried Treasure",
+      "protected": true
+    },
+    {
+      "id": "stal",
+      "name": "Stal",
+      "artist": "C418",
+      "description": "A moderate jazz-like piece played on a piano, saxophone, and double bass, with recorder interludes.",
+      "how_to_obtain": "Creeper killed by Skeleton/Stray",
+      "protected": true
+    },
+    {
+      "id": "strad",
+      "name": "Strad",
+      "artist": "C418",
+      "description": "A tropical-sounding piece with the main melody being played on a steelpan, accompanied by a layered mix of strings and woodwinds.",
+      "how_to_obtain": "Creeper killed by Skeleton/Stray",
+      "protected": true
+    },
+    {
+      "id": "ward",
+      "name": "Ward",
+      "artist": "C418",
+      "description": "Starts off with an excerpt from Chopin's Funeral March played on a synth organ, but it is interrupted by vinyl static and switches to an electronic, upbeat tune.",
+      "how_to_obtain": "Creeper killed by Skeleton/Stray",
+      "protected": true
+    },
+    {
+      "id": "11",
+      "name": "11",
+      "artist": "C418",
+      "description": "A recording that begins with vinyl static, followed by the sounds of someone walking on or breaking stone blocks, heavy breathing, and rustling.",
+      "how_to_obtain": "Creeper killed by Skeleton/Stray",
+      "protected": true
+    },
+    {
+      "id": "wait",
+      "name": "Wait",
+      "artist": "C418",
+      "description": "An upbeat remix of 'Minecraft'. It starts out with some quiet synth Latin percussion and some soft synths playing a melody, and then expands into a chiptune-esque song.",
+      "how_to_obtain": "Creeper killed by Skeleton/Stray, Buried Treasure",
+      "protected": true
+    },
+    {
+      "id": "otherside",
+      "name": "Otherside",
+      "artist": "Lena Raine",
+      "description": "Starts off as an uplifting and happy retro-style ostinato in a major key. Upon reaching the second half, the song changes to a minor key and progresses into a darker melody.",
+      "how_to_obtain": "Stronghold/Dungeon/Ancient City chests",
+      "protected": true
+    },
+    {
+      "id": "5",
+      "name": "5",
+      "artist": "Samuel Åberg",
+      "description": "A recording that begins with static and a warped noise. It features sounds of a flint and steel, walking, the Warden roaring, and eventual sculk shrieker activation.",
+      "how_to_obtain": "Crafted from 9 Disc Fragments (Ancient City)",
+      "protected": true
+    },
+    {
+      "id": "pigstep",
+      "name": "Pigstep",
+      "artist": "Lena Raine",
+      "description": "An intense, somewhat hip-hop-style beat beginning with a repeating tuba-like tune and dubstep-style drop, along with more mellow parts reminiscent of a radio.",
+      "how_to_obtain": "Bastion Remnant chests",
+      "protected": true
+    },
+    {
+      "id": "relic",
+      "name": "Relic",
+      "artist": "Aaron Cherof",
+      "description": "The recording begins with vinyl static and record grain before abruptly bursting out into an upbeat 8-bit tune of low audio quality.",
+      "how_to_obtain": "Trail Ruins (Brushing Suspicious Gravel)",
+      "protected": true
+    },
+    {
+      "id": "creator",
+      "name": "Creator",
+      "artist": "Lena Raine",
+      "description": "The disc begins with a short melodious tune, seemingly played from a music box, until it fades into a music box lever being turned.",
+      "how_to_obtain": "Trial Chambers (Ominous Vault)",
+      "protected": true
+    },
+    {
+      "id": "creator_music_box",
+      "name": "Creator (Music Box)",
+      "artist": "Lena Raine",
+      "description": "The disc begins with a music box lever being turned, which leads to a short, melodious version of the Creator music disc.",
+      "how_to_obtain": "Trial Chambers (Breaking Decorated Pots)",
+      "protected": true
+    },
+    {
+      "id": "precipice",
+      "name": "Precipice",
+      "artist": "Aaron Cherof",
+      "description": "The music track begins with atmospheric tension, featuring a mix of ambient textures, distant percussion, and a sense of depth.",
+      "how_to_obtain": "Trial Chambers (Standard Vault)",
+      "protected": true
+    },
+    {
+      "id": "tears",
+      "name": "Tears",
+      "artist": "Amos Roddy",
+      "description": "A musical remix of ghast sounds, created by reflecting a fireball back at a Ghast.",
+      "how_to_obtain": "Ghast killed by its own reflected fireball",
+      "protected": true
+    },
+    {
+      "id": "lava_chicken",
+      "name": "Lava Chicken",
+      "artist": "Hyper Potions",
+      "description": "A note block remake of 'Steve's Lava Chicken' song from A Minecraft Movie. A villager can also be heard singing.",
+      "how_to_obtain": "Kill a Chicken Jockey (Zombie part)",
+      "protected": true
+    }
+  ]
+}
