@@ -129,6 +129,11 @@ class DiscCard(ctk.CTkFrame):
         dialog.transient(self.winfo_toplevel())
         dialog.grab_set()
         
+        # Set custom icon
+        icon_path = Path(__file__).parent.parent.parent.parent / "data" / "app-icon" / "icon.ico"
+        if icon_path.exists():
+            dialog.after(200, lambda: dialog.iconbitmap(str(icon_path)))
+        
         # Center on parent
         dialog.update_idletasks()
         parent = self.winfo_toplevel()
