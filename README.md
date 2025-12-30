@@ -1,3 +1,8 @@
+### Note
+
+**The coding of this tool was done entirely by AI.**
+
+
 # Music Disc Tracker
 
 A sleek, minimal desktop application for tracking your Minecraft music disc collection, featuring a modern Geist-inspired dark UI.
