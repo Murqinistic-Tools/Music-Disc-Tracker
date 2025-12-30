@@ -1,6 +1,6 @@
 # Note
 
--**The coding of this tool was done entirely by AI.**
+- **The coding of this tool was done entirely by AI.**
 
 # Music Disc Tracker
 
